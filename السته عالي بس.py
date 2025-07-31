@@ -4,7 +4,7 @@ from user_agent import generate_user_agent as x
 import random
 import threading
 import uuid
-hj
+
 s = 0
 
 # ألوان ANSI متغيرة
